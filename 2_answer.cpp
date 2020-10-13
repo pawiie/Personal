@@ -57,7 +57,7 @@ int main(){
     // checking at every index of str1
     for(int i=0;i<length1-length2+1;i++){
 
-        //difference of frequency of two postions of str1 to get frequency of characters of the segment
+        //difference of frequency of two positions of str1 to get frequency of characters of the segment
         map<char,int> diff;
         if(i==0) diff=freq[length2-1];
         else{
