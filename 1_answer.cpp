@@ -1,3 +1,4 @@
+// solution of question no - 1
 #include<iostream>
 using namespace std;
 int main(){

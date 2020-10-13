@@ -1,3 +1,5 @@
+// solution of question no- 2
+
 #include<iostream>
 #include<map>
 #include<vector>
