@@ -1,1 +1,2 @@
-These are the solutions to the questions given by Tutree for internship.
+Solution to some questoins mentioned in question.txt
+
