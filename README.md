@@ -1,2 +1,2 @@
-Solution to some questoins mentioned in question.txt
+Solution to some questions mentioned in question.txt
 
